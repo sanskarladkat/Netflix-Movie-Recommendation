@@ -1,10 +1,12 @@
 # Netflix-Movie-Recommendation
 📝 Description
+
 This project involves performing exploratory data analysis on a Netflix dataset and building a basic content-based movie recommendation system using Python. The analysis aims to extract insights such as genre popularity, release year trends, and runtime distribution, while the recommendation engine suggests similar movies based on user interests.
 The main objective is to understand Netflix’s content offerings, identify patterns in the data, and help users discover movies they might enjoy using similarity techniques.
 
 
-🔍 Key Features
+🔍** Key Features**
+
 1) Exploratory Data Analysis (EDA) to uncover trends in genres, ratings, release years, and movie durations
 
 2) Data Cleaning & Preprocessing: Handled missing values, removed duplicates, formatted dates, and standardized categorical data
@@ -17,7 +19,7 @@ The main objective is to understand Netflix’s content offerings, identify patt
 
 
 
-🛠️ Technologies Used
+🛠️** Technologies Used**
 
 Python
 
