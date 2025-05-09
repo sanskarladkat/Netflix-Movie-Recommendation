@@ -28,20 +28,27 @@ Matplotlib, Seaborn – data visualization
 Jupyter Notebook – development and experimentation environment
 
 
+
+
 📊 Questions Explored & Key Insights
 Here are some key business questions tackled during the data analysis phase, along with their conclusions:
 
 What is the most frequent genre of movies released on Netflix?
+
 🔍 Conclusion: Drama is the most frequent genre, appearing in over 14% of the total 19 genres represented in the dataset.
 
 Which genre has the highest number of votes (popularity)?
+
 🔍 Conclusion: Around 25.5% of the dataset includes popularity (vote) information. Among them, Drama again tops the list with over 18.5% of the total movie popularity.
 
 Which movie has the highest popularity, and what are its genres?
+
 🔍 Conclusion: Spider-Man: No Way Home holds the highest popularity rating in the dataset. Its genres include Action, Adventure, and Science Fiction.
 
 Which movie has the lowest popularity, and what are its genres?
+
 🔍 Conclusion: The United States, Thread has the lowest popularity rating. Its genres are Music, Drama, War, Sci-Fi, and History.
 
 Which year had the most movie releases?
+
 🔍 Conclusion: The year 2020 saw the highest number of movie releases in the Netflix dataset.
